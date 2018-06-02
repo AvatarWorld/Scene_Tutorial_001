@@ -37,7 +37,7 @@ WeChat Group: ![WeChat Group][wechatgroup]
 
 [qq]: https://github.com/AvatarWorld/Scene_Tutorial_001/blob/master/Files/QQGroup.png "QQ Group"
 
-[wechat]: https://github.com/AvatarWorld/Scene_Tutorial_001/blob/master/Files/WeChat.png "公众号"
+[wechat]: https://github.com/AvatarWorld/Scene_Tutorial_001/blob/master/Files/WeChat001.png "公众号"
 
 [wechatgroup]: https://github.com/AvatarWorld/Scene_Tutorial_001/blob/master/Files/WeChat_Group.png "微信群"
 
