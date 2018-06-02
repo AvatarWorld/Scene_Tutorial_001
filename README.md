@@ -4,7 +4,7 @@
 
 课程地址：https://ke.qq.com/course/302838?tuin=53c05de
 
-版本 UnityUnity2018.1.0f2
+Unity版本 Unity2018.1.0f2
 
 Vertex Painter 工具（修改Vertex Color的工具即可）： 
 
