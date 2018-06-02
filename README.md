@@ -29,11 +29,9 @@ https://github.com/AvatarWorld
 http://ke.qq.com/cgi-bin/agency?aid=59944&_bid=167&_wv=2147484673&from=agencyIntroShare&tuin=6ad51299#tab=1&category=-1
 
 
-QQ Group: ![QQ Group][qq]
-
-WeChat: ![WeChat][wechat]
-
-WeChat Group: ![WeChat Group][wechatgroup]
+![QQ Group][qq]
+![WeChat][wechat]
+![WeChat Group][wechatgroup]
 
 [qq]: https://github.com/AvatarWorld/Scene_Tutorial_001/blob/master/Files/QQGroup.png "QQ Group"
 
