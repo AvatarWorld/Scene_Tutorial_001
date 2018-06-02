@@ -1,6 +1,6 @@
-# Scene_Tutorial_001
-写实场景教程，第一次课Demo
+# 《实时动画》第一季之超写实场景
 
+## 第一次课Demo
 
 官方网站
 
@@ -27,3 +27,4 @@ https://github.com/AvatarWorld
 腾讯课堂网址
 
 http://ke.qq.com/cgi-bin/agency?aid=59944&_bid=167&_wv=2147484673&from=agencyIntroShare&tuin=6ad51299#tab=1&category=-1
+
