@@ -2,6 +2,20 @@
 
 ## 第一次课Demo
 
+课程地址：https://ke.qq.com/course/302838?tuin=53c05de
+
+版本 UnityUnity2018.1.0f2
+
+Vertex Painter 工具（修改Vertex Color的工具即可）： 
+
+https://github.com/slipster216/VertexPaint (Github)
+
+https://unity3d.com/unity/features/worldbuilding/polybrush (Unity)
+
+**资源文件过大，该Demo不包含资源，具体的资源实例，可以通过QQ群下载**
+
+*** 
+
 ### 官方网站
 
 http://www.avatarworld.cn/
